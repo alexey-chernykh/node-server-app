@@ -1,0 +1,38 @@
+[
+ {
+  "city": "San Francisco",
+  "country": "USA"
+ },
+ {
+  "city": "Tokyo",
+  "country": "Japan"
+ },
+ {
+  "city": "London",
+  "country": "England"
+ },
+ {
+  "city": "Paris",
+  "country": "France"
+ },
+ {
+  "city": "Kyiv",
+  "country": "Ukraine"
+ },
+ {
+  "city": "Kharkov",
+  "country": "Ukraine"
+ },
+ {
+  "city": "Rivne",
+  "country": "Ukraine"
+ },
+ {
+  "city": "Beijing",
+  "country": "China"
+ },
+ {
+  "city": "Warsaw",
+  "country": "Poland"
+ }
+]
